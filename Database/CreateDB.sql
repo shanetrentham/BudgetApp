@@ -1,0 +1,6 @@
+CREATE DATABASE BudgetDB
+WITH
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    ALLOW_CONNECTIONS = true
+    CONNECTION LIMIT = -1;

@@ -1,0 +1,11 @@
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/bin/Debug/net5.0/BudgetApp.Shared.deps.json
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/bin/Debug/net5.0/BudgetApp.Shared.dll
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/bin/Debug/net5.0/ref/BudgetApp.Shared.dll
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/bin/Debug/net5.0/BudgetApp.Shared.pdb
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/obj/Debug/net5.0/BudgetApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/obj/Debug/net5.0/BudgetApp.Shared.AssemblyInfoInputs.cache
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/obj/Debug/net5.0/BudgetApp.Shared.AssemblyInfo.cs
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/obj/Debug/net5.0/BudgetApp.Shared.csproj.CoreCompileInputs.cache
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/obj/Debug/net5.0/BudgetApp.Shared.dll
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/obj/Debug/net5.0/ref/BudgetApp.Shared.dll
+/Users/shanetrentham/Projects/BudgetApp/BudgetApp/Shared/obj/Debug/net5.0/BudgetApp.Shared.pdb
